@@ -38,6 +38,3 @@ ninja
 
 You should see a printf warning followed by the "Hello World!" message.
 You can exit QEMU with `Ctrl-a + x`.
-
-If you don't want the screen to be cleared after exiting QEMU, remove
-the last line of the `./simulate` script.
